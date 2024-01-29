@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HerbertNowell
-- 👀 I’m interested in system software development and financial software
-- 🌱 I’m currently learning Python as an additional programming language and ARM assembly.
+- 👀 I’m interested in system software development and financial software.
+- 🌱 I’m currently re-learning Java after over a decade away.
 - 📫 How to reach me: programmer@herbertnowell.com
 
 <!---
